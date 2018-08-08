@@ -1,0 +1,14 @@
+{
+  "name": "zadanie-21.6_mongodb_connected_with_nodejs",
+  "version": "1.0.0",
+  "description": "MongoDB, NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miłosz Panas <miloszpanas@gmail.com> (https://github.com/miloszpanas)",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.2.7"
+  }
+}
